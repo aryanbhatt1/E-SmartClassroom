@@ -1,0 +1,26 @@
+.header{
+    width:100%;
+    height:60px;
+}
+body{
+
+    margin:0px;
+    padding:0px;
+}
+.logo{
+    margin-top:0px;
+    float:right;
+    margin:0px;
+    height:100px;
+    padding-right:9px;
+}
+.camera{
+    margin-top: 5%;
+    padding-left: 5%;
+    width:50%;
+}
+
+.camera-container{
+    border-radius: 20px;
+    width:100%;
+}
